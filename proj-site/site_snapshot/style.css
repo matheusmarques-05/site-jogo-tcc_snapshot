@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(19, 52, 52);
+}   
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(195, 195, 195);
+}
+
+h3{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(195, 195, 195);
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(195, 195, 195);
+}
+
+hr{
+   width: 1100px;
+   align-items: center;
+}
+
+#dov{
+    display: flex;
+    justify-content: center;
+}
